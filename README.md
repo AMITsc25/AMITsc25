@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @AMITsc25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-AMITsc25/AMITsc25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m AMIT
+- I just started learning Python
+- soon i'll upload some new projacts of my learnings
+- you can also call me 'Gamer Magafym'
+- if you want to contact me DM to my discord
